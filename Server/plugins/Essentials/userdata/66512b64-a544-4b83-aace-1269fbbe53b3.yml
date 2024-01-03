@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 39.118.193.69
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1704266611411
+  login: 1704266440814
+money: '0'
+last-account-name: power1124
+logoutlocation:
+  world: 66118986-87c3-41d8-9dbc-92b1d0e99d66
+  world-name: world
+  x: 507.3716517716192
+  y: -47.0
+  z: -219.3825250151882
+  yaw: 36.3543701171875
+  pitch: 38.70024871826172
