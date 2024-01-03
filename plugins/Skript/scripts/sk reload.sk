@@ -1,0 +1,35 @@
+on join:
+    if {닉네임::%player%} is not set:
+        set {닉네임::%player%} to player's name
+
+command /닉네임 [<text>] [<player>] [<text>]:
+    trigger:
+        if player is op:
+            if arg 1 or arg 2 or arg 3 is not set:
+                send "/닉네임 [설정/삭제] [플레이어] [변경할 닉네임]" to player
+
+            if arg 1 is "설정":
+                arg 2 is set:
+                    arg 3 is set:
+                        set {닉네임::%arg 2%} to colored arg 3
+                        set {닉네임저장::%arg 2%} to player's name
+                        send "&6%arg 2%&e님의 닉네임을 &f%colored arg 3%&e으로 변경 했습니다"
+
+            if arg 1 is "삭제":
+                arg 2 is set:
+                    arg 3 is not set:
+                        delete {닉네임::%arg 2%}
+                        set {닉네임::%arg 2%} to {닉네임저장::%arg 2%}
+                        send "&6%arg 2%&e님의 변경 닉네임을 삭제 합니다"
+        else:
+            send "&c당신은 권한이 없어서 이 명령어를 사용할 수 없습니다"
+
+on chat:
+    if {닉네임::%player%} is set:
+        set message format to "<%{닉네임::%player%}%&f> %message%"
+
+every 1 seconds:
+    loop all players:
+        set the loop-player's display name to "%{닉네임::%loop-player%}%"
+        set tablist name of loop-player to "%{닉네임::%loop-player%}%"
+        set display name of loop-player to "%{닉네임::%loop-player%}%"
