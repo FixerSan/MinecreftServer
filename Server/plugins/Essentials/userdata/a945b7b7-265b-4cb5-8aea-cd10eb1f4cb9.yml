@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.219.100
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1704262069279
+  login: 1704261983740
+money: '0'
+last-account-name: FIXER_San
+logoutlocation:
+  world: 66118986-87c3-41d8-9dbc-92b1d0e99d66
+  world-name: world
+  x: 682.7069780215235
+  y: 88.0
+  z: -10.445249301355338
+  yaw: 92.21051025390625
+  pitch: 31.591781616210938

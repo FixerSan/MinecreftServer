@@ -1,0 +1,68 @@
+---- Minecraft Crash Report ----
+// This doesn't make any sense!
+
+Time: 2024-01-03 14:53:35
+Description: Exception in server tick loop
+
+java.lang.IllegalStateException: Failed to initialize server
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:953)
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:293)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.19.3
+	Minecraft Version ID: 1.19.3
+	Operating System: Windows 11 (amd64) version 10.0
+	Java Version: 17.0.9, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+	Memory: 4127597528 bytes (3936 MiB) / 4294967296 bytes (4096 MiB) up to 4294967296 bytes (4096 MiB)
+	CPUs: 12
+	Processor Vendor: GenuineIntel
+	Processor Name: 12th Gen Intel(R) Core(TM) i5-12400F
+	Identifier: Intel64 Family 6 Model 151 Stepping 2
+	Microarchitecture: Alder Lake
+	Frequency (GHz): 2.50
+	Number of physical packages: 1
+	Number of physical CPUs: 6
+	Number of logical CPUs: 12
+	Graphics card #0 name: NVIDIA GeForce RTX 3070 Ti
+	Graphics card #0 vendor: NVIDIA (0x10de)
+	Graphics card #0 VRAM (MB): 4095.00
+	Graphics card #0 deviceId: 0x2482
+	Graphics card #0 versionInfo: DriverVersion=31.0.15.4633
+	Memory slot #0 capacity (MB): 8192.00
+	Memory slot #0 clockSpeed (GHz): 2.67
+	Memory slot #0 type: DDR4
+	Memory slot #1 capacity (MB): 8192.00
+	Memory slot #1 clockSpeed (GHz): 2.67
+	Memory slot #1 type: DDR4
+	Virtual memory max (MB): 21853.01
+	Virtual memory used (MB): 18188.92
+	Swap memory total (MB): 5632.00
+	Swap memory used (MB): 118.91
+	JVM Flags: 2 total; -Xms4096M -Xmx4096M
+	CraftBukkit Information: 
+   Running: 
+   Failed to handle CraftCrashReport:
+java.lang.NullPointerException: Cannot invoke "org.bukkit.Server.getName()" because "org.bukkit.Bukkit.server" is null
+	at org.bukkit.Bukkit.getName(Bukkit.java:102)
+	at org.bukkit.craftbukkit.v1_19_R2.CraftCrashReport.get(CraftCrashReport.java:23)
+	at org.bukkit.craftbukkit.v1_19_R2.CraftCrashReport.get(CraftCrashReport.java:1)
+	at net.minecraft.SystemReport.a(SourceFile:66)
+	at net.minecraft.CrashReport.<init>(CrashReport.java:37)
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1050)
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:995)
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:293)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+	Server Running: true
+	Data Packs: vanilla, file/bukkit
+	Enabled Feature Flags: minecraft:vanilla
+	World Generation: Stable
+	Is Modded: ERR
+	Type: Dedicated Server (map_server.txt)
