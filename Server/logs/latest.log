@@ -1,67 +1,50 @@
-[17:15:17] [ServerMain/INFO]: Building unoptimized datafixer
-[17:15:17] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:15:18] [ServerMain/INFO]: Loaded 7 recipes
-[17:15:20] [Server thread/INFO]: Starting minecraft server version 1.19.3
-[17:15:20] [Server thread/INFO]: Loading properties
-[17:15:20] [Server thread/INFO]: Default game type: SURVIVAL
-[17:15:20] [Server thread/INFO]: Generating keypair
-[17:15:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:15:20] [Server thread/INFO]: Using default channel type
-[17:15:20] [Server thread/INFO]: This server is running CraftBukkit version 3670-Bukkit-bd29f41 (MC: 1.19.3) (Implementing API version 1.19.3-R0.1-SNAPSHOT)
-[17:15:21] [Server thread/INFO]: [Essentials] Loading Essentials v2.20.1
-[17:15:21] [Server thread/INFO]: Preparing level "world"
-[17:15:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:15:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[17:15:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[17:15:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:15:23] [Worker-Main-9/INFO]: Preparing spawn area: 22%
-[17:15:23] [Worker-Main-5/INFO]: Preparing spawn area: 61%
-[17:15:24] [Worker-Main-4/INFO]: Preparing spawn area: 85%
-[17:15:24] [Server thread/INFO]: Time elapsed: 2764 ms
-[17:15:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[17:15:25] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[17:15:25] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[17:15:25] [Worker-Main-5/INFO]: Preparing spawn area: 4%
-[17:15:26] [Worker-Main-6/INFO]: Preparing spawn area: 71%
-[17:15:26] [Server thread/INFO]: Time elapsed: 1563 ms
-[17:15:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[17:15:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:15:26] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[17:15:27] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[17:15:27] [Server thread/INFO]: Time elapsed: 1252 ms
-[17:15:27] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
-[17:15:27] [Server thread/ERROR]: You are running an unsupported server version!
-[17:15:27] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
-[17:15:27] [Server thread/INFO]: No kits found to migrate.
-[17:15:28] [Server thread/INFO]: Loaded 39094 items from items.json.
-[17:15:28] [Server thread/INFO]: Using locale ko_KR
-[17:15:28] [Server thread/INFO]: ServerListPingEvent: Spigot iterator API
-[17:15:28] [Server thread/INFO]: Starting Metrics. Opt-out using the global bStats config.
-[17:15:28] [Server thread/INFO]: Using superperms-based permissions.
-[17:15:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:15:28] [Server thread/INFO]: Done (7.074s)! For help, type "help"
-[17:15:28] [Craft Scheduler Thread - 0/INFO]: °◊6πˆ¿¸ ¡§∫∏∏¶ ∞°¡Æø¿¥¬¡ﬂ...
-[17:17:12] [User Authenticator #1/INFO]: UUID of player FIXER_San is a945b7b7-265b-4cb5-8aea-cd10eb1f4cb9
-[17:17:12] [Server thread/INFO]: FIXER_San joined the game
-[17:17:12] [Server thread/INFO]: FIXER_San[/125.240.27.22:1407] logged in with entity id 145 at ([world]595.8997852099797, 69.9375, -17.747318242187212)
-[17:18:43] [User Authenticator #2/INFO]: UUID of player PorTnT_ is f90b9172-bf4a-4c3a-ac00-0eb4c2fc5e6c
-[17:18:43] [Server thread/INFO]: PorTnT_ joined the game
-[17:18:43] [Server thread/INFO]: PorTnT_[/14.39.43.91:5548] logged in with entity id 1250 at ([world]508.63027685839296, 82.18947261797402, -159.59455564036494)
-[17:18:51] [Async Chat Thread - #1/INFO]: <PorTnT_> æ»≥Á«œººø‰[m
-[17:18:57] [Async Chat Thread - #2/INFO]: <FIXER_San> æ»≥Á«œººø©~[m
-[17:19:06] [Server thread/INFO]: PorTnT_ lost connection: Disconnected
-[17:19:06] [Server thread/INFO]: PorTnT_ left the game
-[17:27:01] [Server thread/INFO]: FIXER_San lost connection: Disconnected
-[17:27:01] [Server thread/INFO]: FIXER_San left the game
-[17:27:15] [Server thread/INFO]: Stopping the server
-[17:27:15] [Server thread/INFO]: Stopping server
-[17:27:15] [Server thread/INFO]: Disabling Essentials v2.20.1
-[17:27:15] [Server thread/INFO]: Saving players
-[17:27:15] [Server thread/INFO]: Saving worlds
-[17:27:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:27:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[17:27:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[17:27:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:27:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:27:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:27:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:00:04] [Async Chat Thread - #33/INFO]: <PorTnT_> Ïù∏Ï†ÄÎ¶¨ÌÉÄÏûÑ[m
+[00:00:06] [Async Chat Thread - #32/INFO]: <PorTnT_> 1Î∂Ñ Ï∂îÍ∞Ä[m
+[00:00:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21318ms or 426 ticks behind
+[00:01:01] [User Authenticator #11/INFO]: UUID of player power1124 is 66512b64-a544-4b83-aace-1269fbbe53b3
+[00:01:01] [Server thread/INFO]: power1124 joined the game
+[00:01:02] [Server thread/INFO]: power1124[/39.118.193.69:50446] logged in with entity id 99604 at ([world]459.2211664745711, 69.0, -230.63864679009825)
+[00:01:06] [Server thread/INFO]: PorTnT_ lost connection: Disconnected
+[00:01:06] [Server thread/INFO]: PorTnT_ left the game
+[00:01:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21469ms or 429 ticks behind
+[00:01:17] [Server thread/INFO]: [Not Secure] [Server] 5
+[00:01:19] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[00:01:22] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[00:01:26] [Server thread/INFO]: [Not Secure] [Server] 4
+[00:01:29] [Server thread/INFO]: [Not Secure] [Server] 3
+[00:01:32] [Server thread/INFO]: [Not Secure] [Server] 2
+[00:01:35] [Server thread/INFO]: [Not Secure] [Server] 1
+[00:01:41] [Server thread/INFO]: [Not Secure] [Server] ÎÅù
+[00:02:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
+[00:02:01] [Async Chat Thread - #32/INFO]: <ppare> „ÖÅ„Ñ¥„Öá„Ñπ[m
+[00:02:24] [User Authenticator #12/INFO]: UUID of player PorTnT_ is f90b9172-bf4a-4c3a-ac00-0eb4c2fc5e6c
+[00:02:24] [Server thread/INFO]: PorTnT_ joined the game
+[00:02:24] [Server thread/INFO]: PorTnT_[/192.168.0.1:6614] logged in with entity id 101953 at ([world]-357.17025906796306, 68.0, -1938.624264878341)
+[00:02:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18062ms or 361 ticks behind
+[00:03:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16193ms or 323 ticks behind
+[00:03:53] [Server thread/INFO]: PorTnT_ issued server command: /stop
+[00:04:02] [Server thread/INFO]: minho3155 has made the advancement [Diamonds!]
+[00:04:06] [Server thread/INFO]: Stopping the server
+[00:04:06] [Server thread/INFO]: Stopping server
+[00:04:06] [Server thread/INFO]: Disabling Essentials v2.21.0-dev+24-0af4436
+[00:04:06] [Server thread/INFO]: Saving players
+[00:04:06] [Server thread/INFO]: FIXER_San lost connection: Server closed
+[00:04:06] [Server thread/INFO]: FIXER_San left the game.
+[00:04:06] [Server thread/INFO]: Kaen_y lost connection: Server closed
+[00:04:06] [Server thread/INFO]: Kaen_y left the game.
+[00:04:06] [Server thread/INFO]: minho3155 lost connection: Server closed
+[00:04:06] [Server thread/INFO]: minho3155 left the game.
+[00:04:06] [Server thread/INFO]: ppare lost connection: Server closed
+[00:04:06] [Server thread/INFO]: ppare left the game.
+[00:04:06] [Server thread/INFO]: power1124 lost connection: Server closed
+[00:04:06] [Server thread/INFO]: power1124 left the game.
+[00:04:06] [Server thread/INFO]: PorTnT_ lost connection: Server closed
+[00:04:06] [Server thread/INFO]: PorTnT_ left the game.
+[00:04:06] [Server thread/INFO]: Saving worlds
+[00:04:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:04:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:04:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:04:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:04:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:04:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:04:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

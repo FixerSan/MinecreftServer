@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-01-03 22:35:21 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2024-01-02 23:28:30 +0900"
@@ -317,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-01-04 22:51:40 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2024-01-02 00:05:13 +0900"
@@ -366,7 +378,8 @@
       "rotten_flesh": "2024-01-01 03:05:49 +0900",
       "melon_slice": "2024-01-02 23:25:34 +0900",
       "cooked_chicken": "2024-01-01 21:53:28 +0900",
-      "cooked_salmon": "2024-01-01 22:05:03 +0900"
+      "cooked_salmon": "2024-01-01 22:05:03 +0900",
+      "carrot": "2024-01-04 23:51:32 +0900"
     },
     "done": false
   },
@@ -436,6 +449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-01-04 22:47:53 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-01-02 01:42:47 +0900"
@@ -475,6 +494,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2024-01-01 23:09:40 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-01-04 22:46:17 +0900"
     },
     "done": true
   },
@@ -730,6 +755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-01-04 22:46:17 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-01-01 22:20:42 +0900"
@@ -751,6 +782,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-01-01 23:39:13 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-01-04 23:02:17 +0900"
     },
     "done": true
   },
@@ -878,6 +915,9 @@
     "criteria": {
       "minecraft:skeleton": "2024-01-01 03:17:56 +0900",
       "minecraft:spider": "2024-01-01 03:31:24 +0900",
+      "minecraft:creeper": "2024-01-04 23:12:12 +0900",
+      "minecraft:slime": "2024-01-04 23:07:11 +0900",
+      "minecraft:phantom": "2024-01-03 22:28:18 +0900",
       "minecraft:cave_spider": "2024-01-01 22:59:47 +0900",
       "minecraft:zombie": "2024-01-01 03:05:44 +0900",
       "minecraft:drowned": "2024-01-01 22:01:01 +0900"
@@ -929,6 +969,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-01-02 01:42:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-01-04 22:51:40 +0900"
     },
     "done": true
   },
@@ -1190,6 +1236,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-01-04 23:07:18 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2024-01-01 23:34:45 +0900"
@@ -1358,6 +1410,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-01-04 23:07:18 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-01-01 21:48:42 +0900"
@@ -1367,6 +1425,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-01-01 22:20:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-01-04 22:46:17 +0900"
     },
     "done": true
   },
@@ -1496,6 +1560,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-01-04 23:02:17 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-01-01 23:39:13 +0900"
@@ -1550,6 +1620,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-01-04 23:07:18 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2024-01-01 03:10:49 +0900"
@@ -1579,6 +1655,7 @@
       "minecraft:savanna_plateau": "2024-01-01 22:39:07 +0900",
       "minecraft:beach": "2024-01-02 01:55:25 +0900",
       "minecraft:river": "2024-01-01 02:59:56 +0900",
+      "minecraft:dripstone_caves": "2024-01-04 22:45:22 +0900",
       "minecraft:forest": "2024-01-01 22:39:45 +0900",
       "minecraft:lush_caves": "2024-01-01 23:09:24 +0900",
       "minecraft:jungle": "2024-01-01 22:46:39 +0900",
@@ -1749,6 +1826,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-01-04 22:52:53 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-01-01 03:13:26 +0900"
@@ -1758,6 +1841,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2024-01-01 23:34:45 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2024-01-04 23:19:10 +0900"
     },
     "done": true
   },
@@ -1823,6 +1912,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:soul_sand_valley": "2024-01-05 00:01:20 +0900",
       "minecraft:basalt_deltas": "2024-01-02 02:01:38 +0900"
     },
     "done": false
@@ -1926,6 +2016,12 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2024-01-01 22:14:28 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-01-05 00:03:56 +0900"
     },
     "done": true
   },
