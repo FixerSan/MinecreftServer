@@ -11,13 +11,13 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1704479403001
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1704380646352
-  login: 1704380544469
+  logout: 1704484218093
+  login: 1704479319839
 money: '0'
 last-account-name: PorTnT_
 homes:
@@ -32,8 +32,16 @@ homes:
 logoutlocation:
   world: 66118986-87c3-41d8-9dbc-92b1d0e99d66
   world-name: world
-  x: -359.92500001192093
-  y: 71.0
-  z: -1968.6597419382967
-  yaw: -105.20716857910156
-  pitch: 38.038902282714844
+  x: 530.6571668285875
+  y: 74.0
+  z: -74.84668035648983
+  yaw: 98.9296875
+  pitch: 2.32650089263916
+lastlocation:
+  world: 66118986-87c3-41d8-9dbc-92b1d0e99d66
+  world-name: world
+  x: -353.10743807544844
+  y: 63.0
+  z: -1902.7673995041052
+  yaw: -75.36236572265625
+  pitch: 25.04969596862793

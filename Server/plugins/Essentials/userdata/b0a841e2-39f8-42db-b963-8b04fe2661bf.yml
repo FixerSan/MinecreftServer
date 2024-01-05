@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 221.167.246.167
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1704484240660
+  login: 1704479295607
+money: '0'
+last-account-name: Sejul_04
+logoutlocation:
+  world: 66118986-87c3-41d8-9dbc-92b1d0e99d66
+  world-name: world
+  x: 517.3979999685586
+  y: 60.0
+  z: 122.30000001192093
+  yaw: 1.8978271484375
+  pitch: 46.50004196166992
