@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 125.240.27.98
+ip-address: 127.0.0.1
 afk: false
 socialspy: false
 npc: false
@@ -11,20 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1704743313859
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1704380646311
-  login: 1704372970890
+  logout: 1704743329041
+  login: 1704735844110
 money: '0'
 last-account-name: FIXER_San
 logoutlocation:
   world: 66118986-87c3-41d8-9dbc-92b1d0e99d66
   world-name: world
-  x: 567.9536279701707
-  y: 66.0
-  z: -42.31942120864012
-  yaw: -172.84814453125
-  pitch: 20.71717071533203
+  x: 574.4419468255941
+  y: 61.0
+  z: 38.439306977455665
+  yaw: -93.42727661132812
+  pitch: -1.4532885551452637
+lastlocation:
+  world: ae1543d1-efc9-4da5-8334-ed76de497866
+  world-name: world_nether
+  x: 300.11275538790073
+  y: 37.0
+  z: 189.2186284091385
+  yaw: 145.9049072265625
+  pitch: 13.625682830810547
