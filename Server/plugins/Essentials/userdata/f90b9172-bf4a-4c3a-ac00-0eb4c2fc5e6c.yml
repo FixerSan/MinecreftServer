@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1704484218093
-  login: 1704479319839
+  logout: 1704654757353
+  login: 1704645489644
 money: '0'
 last-account-name: PorTnT_
 homes:
@@ -32,11 +32,11 @@ homes:
 logoutlocation:
   world: 66118986-87c3-41d8-9dbc-92b1d0e99d66
   world-name: world
-  x: 530.6571668285875
-  y: 74.0
-  z: -74.84668035648983
-  yaw: 98.9296875
-  pitch: 2.32650089263916
+  x: 570.140840381458
+  y: 71.0
+  z: -27.061883503600995
+  yaw: -167.46258544921875
+  pitch: 19.927350997924805
 lastlocation:
   world: 66118986-87c3-41d8-9dbc-92b1d0e99d66
   world-name: world
