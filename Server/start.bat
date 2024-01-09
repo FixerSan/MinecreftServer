@@ -80,7 +80,6 @@ java -Xms1G -Xmx1G -jar bukkit.jar
 pause
 
 cls
-explorer "https://twitter.com/wjdqhzld"
 goto main
 
 :bb
@@ -99,7 +98,6 @@ java -Xms1G -Xmx2G -jar bukkit.jar
 pause
 
 cls
-explorer "https://twitter.com/wjdqhzld"
 goto main
 
 :cc
@@ -118,7 +116,6 @@ java -Xms1G -Xmx4G -jar bukkit.jar
 pause
 
 cls
-explorer "https://twitter.com/wjdqhzld"
 goto main
 
 :dd
@@ -137,7 +134,6 @@ java -Xms2G -Xmx8G -jar bukkit.jar
 pause
 
 cls
-explorer "https://twitter.com/wjdqhzld"
 goto main
 
 :ddd
@@ -156,7 +152,6 @@ java -Xms4G -Xmx16G -jar bukkit.jar
 pause
 
 cls
-explorer "https://twitter.com/wjdqhzld"
 goto main
 
 :b
