@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1704782003272
-  login: 1704772923610
+  logout: 1704847487530
+  login: 1704843322449
 money: '0'
 last-account-name: FIXER_San
 logoutlocation:
   world: 66118986-87c3-41d8-9dbc-92b1d0e99d66
   world-name: world
-  x: 644.3000000119209
-  y: 64.0
-  z: -30.27595848157224
-  yaw: 91.174560546875
-  pitch: 18.703418731689453
+  x: 469.3134742628576
+  y: 79.0
+  z: 487.2141452749568
+  yaw: -149.309814453125
+  pitch: 18.913318634033203
 lastlocation:
   world: ae1543d1-efc9-4da5-8334-ed76de497866
   world-name: world_nether
