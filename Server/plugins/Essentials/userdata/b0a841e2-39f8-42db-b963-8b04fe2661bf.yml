@@ -16,15 +16,23 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1704852876181
-  login: 1704845222318
+  logout: 1705002975444
+  login: 1704997462333
 money: '0'
 last-account-name: Sejul_04
 logoutlocation:
   world: 66118986-87c3-41d8-9dbc-92b1d0e99d66
   world-name: world
-  x: 359.92500001192093
-  y: 64.0
-  z: 529.3000000119209
-  yaw: -81.74908447265625
-  pitch: 11.250151634216309
+  x: 1360.4724607928956
+  y: 14.0
+  z: 543.2915500556064
+  yaw: 3.510277271270752
+  pitch: 40.7989616394043
+lastlocation:
+  world: 66118986-87c3-41d8-9dbc-92b1d0e99d66
+  world-name: world
+  x: 1324.69043395324
+  y: 63.0
+  z: 539.3577123441712
+  yaw: -86.37940216064453
+  pitch: 28.63643455505371
