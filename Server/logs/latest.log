@@ -1,156 +1,108 @@
-[03:24:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:24:10] [ServerMain/INFO]: Loaded 1174 recipes
-[03:24:11] [ServerMain/INFO]: Loaded 1271 advancements
-[03:24:11] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[03:24:11] [Server thread/INFO]: Loading properties
-[03:24:11] [Server thread/INFO]: This server is running Paper version git-Paper-381 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 07b956e)
-[03:24:12] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[03:24:12] [Server thread/INFO]: Using 4 threads for Netty based IO
-[03:24:12] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[17:14:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:14:52] [ServerMain/INFO]: Loaded 1174 recipes
+[17:14:52] [ServerMain/INFO]: Loaded 1271 advancements
+[17:14:53] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[17:14:53] [Server thread/INFO]: Loading properties
+[17:14:53] [Server thread/INFO]: This server is running Paper version git-Paper-381 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 07b956e)
+[17:14:53] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:14:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:14:53] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[03:24:12] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 3 worker threads, and gen parallelism of 3 threads
-[03:24:12] [Server thread/INFO]: Default game type: SURVIVAL
-[03:24:12] [Server thread/INFO]: Generating keypair
-[03:24:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:24:12] [Server thread/INFO]: Using default channel type
-[03:24:12] [Server thread/INFO]: Paper: Using Java compression from Velocity.
-[03:24:12] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
-[03:24:12] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+24-0af4436
-[03:24:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[03:24:12] [Server thread/INFO]: Preparing level "world"
-[03:24:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:24:14] [Server thread/INFO]: Time elapsed: 1137 ms
-[03:24:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[03:24:14] [Server thread/INFO]: Time elapsed: 114 ms
-[03:24:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[03:24:14] [Server thread/INFO]: Time elapsed: 11 ms
-[03:24:14] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+24-0af4436
-[03:24:14] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[03:24:14] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[03:24:14] [Server thread/INFO]: [Essentials] Loaded 39095 items from items.json.
-[03:24:14] [Server thread/INFO]: [Essentials] Using locale ko_KR
-[03:24:14] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[03:24:15] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[03:24:15] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[03:24:15] [Server thread/INFO]: Running delayed init tasks
-[03:24:15] [Server thread/INFO]: Done (3.320s)! For help, type "help"
-[03:24:15] [Server thread/INFO]: Timings Reset
-[03:24:15] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] 버전 정보를 가져오는중...
-[03:24:21] [User Authenticator #0/INFO]: UUID of player FIXER_San is a945b7b7-265b-4cb5-8aea-cd10eb1f4cb9
-[03:24:21] [Server thread/INFO]: FIXER_San joined the game
-[03:24:21] [Server thread/INFO]: FIXER_San[/127.0.0.1:4039] logged in with entity id 694 at ([world_the_end]1412.2123123248264, 15.223131366845752, -235.09903755033883)
-[03:24:22] [User Authenticator #0/INFO]: UUID of player Sejul_04 is b0a841e2-39f8-42db-b963-8b04fe2661bf
-[03:24:22] [Server thread/INFO]: Sejul_04 joined the game
-[03:24:22] [Server thread/INFO]: Sejul_04[/221.167.246.167:63233] logged in with entity id 695 at ([world_the_end]1405.4814030272044, 57.0, -176.26340705157753)
-[03:25:06] [Server thread/INFO]: FIXER_San issued server command: /save
-[03:25:12] [Server thread/INFO]: FIXER_San issued server command: /save-off
-[03:25:12] [Server thread/INFO]: [FIXER_San: Automatic saving is now disabled]
-[03:25:51] [Server thread/INFO]: FIXER_San issued server command: /save
-[03:25:54] [Server thread/INFO]: FIXER_San issued server command: /fly
-[03:30:47] [Server thread/INFO]: Sejul_04 was slain by Enderman
-[03:30:54] [Server thread/INFO]: FIXER_San issued server command: /tpall
-[03:31:19] [Server thread/INFO]: Sejul_04 fell from a high place
-[03:32:21] [Server thread/INFO]: FIXER_San issued server command: /tpall
-[03:36:29] [Server thread/INFO]: FIXER_San issued server command: /locate structure minecraft:end_city
-[03:36:29] [Server thread/INFO]: Locating element minecraft:end_city took 14 ms
-[03:38:49] [Server thread/INFO]: FIXER_San issued server command: /save-all
-[03:38:52] [Server thread/INFO]: [FIXER_San: Saved the game]
-[03:38:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2732ms or 54 ticks behind
-[03:51:01] [Server thread/INFO]: FIXER_San issued server command: /fly
-[03:51:17] [Server thread/INFO]: FIXER_San issued server command: /tpall
-[03:51:17] [Server thread/WARN]: Sejul_04 moved too quickly! -204.05313447840922,80.0,503.3445702361237
-[03:51:19] [Server thread/INFO]: FIXER_San issued server command: /fly
-[03:56:10] [Server thread/INFO]: FIXER_San has made the advancement [Local Brewery]
-[03:56:53] [Server thread/INFO]: FIXER_San has reached the goal [Sky's the Limit]
-[03:59:58] [Async Chat Thread - #2/INFO]: <Sejul_04> 1360 14 546
-[04:05:24] [Server thread/WARN]: FIXER_San moved too quickly! -1.4113399655482226,-30.0,-5.464110865257396
-[04:05:24] [Server thread/WARN]: FIXER_San moved too quickly! -1.4113399655482226,-30.0,-5.464110865257396
-[04:05:24] [Server thread/WARN]: FIXER_San moved too quickly! -1.4113399655482226,-30.0,-5.464110865257396
-[04:07:16] [Server thread/INFO]: Sejul_04 drowned
-[04:07:46] [Async Chat Thread - #3/INFO]: <Sejul_04> 1329 24 545
-[04:08:18] [Server thread/INFO]: FIXER_San issued server command: /save
-[04:08:23] [Server thread/INFO]: FIXER_San issued server command: /save-all
-[04:08:26] [Server thread/INFO]: [FIXER_San: Saved the game]
-[04:08:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3027ms or 60 ticks behind
-[04:09:29] [Server thread/INFO]: FIXER_San issued server command: /tp FIXER_San 1329 24 545
-[04:09:29] [Server thread/WARN]: FIXER_San moved too quickly! 681.9489497170232,-59.9375,573.9904231350102
-[04:09:29] [Server thread/WARN]: FIXER_San moved too quickly! 681.9489497170232,-59.9375,573.9904231350102
-[04:10:21] [Server thread/INFO]: FIXER_San issued server command: /home
-[04:10:21] [Server thread/WARN]: FIXER_San moved too quickly! -750.8638804135016,11.58915359449621,-498.19159053952774
-[04:10:29] [Server thread/INFO]: FIXER_San issued server command: /back
-[04:10:29] [Server thread/WARN]: FIXER_San moved too quickly! 753.9007138939802,12.4375,499.52929757512265
-[04:10:29] [Server thread/WARN]: FIXER_San moved too quickly! 753.9007138939802,12.4375,499.52929757512265
-[04:10:29] [Server thread/WARN]: FIXER_San moved too quickly! 753.9007138939802,12.4375,499.52929757512265
-[04:10:29] [Server thread/WARN]: FIXER_San moved too quickly! 753.9007138939802,12.4375,499.52929757512265
-[04:10:29] [Server thread/WARN]: FIXER_San moved too quickly! 753.9007138939802,12.4375,499.52929757512265
-[04:10:29] [Server thread/WARN]: FIXER_San moved too quickly! 753.9007138939802,12.4375,499.52929757512265
-[04:10:29] [Server thread/WARN]: FIXER_San moved too quickly! 753.9007138939802,12.4375,499.52929757512265
-[04:10:31] [Server thread/INFO]: FIXER_San issued server command: /tpall
-[04:10:39] [Server thread/INFO]: FIXER_San issued server command: /tp FIXER_San 1329 24 545
-[04:10:39] [Server thread/WARN]: FIXER_San moved too quickly! 4.800000011920929,-29.0,6.224174478430768
-[04:10:39] [Server thread/WARN]: FIXER_San moved too quickly! 4.800000011920929,-29.0,6.224174478430768
-[04:10:39] [Server thread/WARN]: FIXER_San moved too quickly! 4.800000011920929,-29.0,6.224174478430768
-[04:10:41] [Server thread/INFO]: FIXER_San issued server command: /tpall
-[04:11:12] [Async Chat Thread - #5/INFO]: <FIXER_San> .\
-[04:11:13] [Server thread/INFO]: FIXER_San issued server command: /home
-[04:11:13] [Server thread/WARN]: FIXER_San moved too quickly! -755.7216276206832,20.286593930644838,-505.19999998807907
-[04:11:13] [Server thread/WARN]: FIXER_San moved too quickly! -755.7216276206832,20.286593930644838,-505.19999998807907
-[04:11:13] [Server thread/WARN]: FIXER_San moved too quickly! -755.7216276206832,20.286593930644838,-505.19999998807907
-[04:11:13] [Server thread/WARN]: FIXER_San moved too quickly! -755.7216276206832,20.286593930644838,-505.19999998807907
-[04:12:22] [Server thread/INFO]: FIXER_San issued server command: /tp
-[04:12:25] [Server thread/INFO]: FIXER_San issued server command: /tp2p
-[04:12:27] [Server thread/INFO]: FIXER_San issued server command: /tp Sejul_04
-[04:12:27] [Server thread/WARN]: FIXER_San moved too quickly! 689.7910335594052,-80.0,581.2843415150038
-[04:12:27] [Server thread/WARN]: FIXER_San moved too quickly! 689.7910335594052,-80.0,581.2843415150038
-[04:12:27] [Server thread/WARN]: FIXER_San moved too quickly! 689.7910335594052,-80.0,581.2843415150038
-[04:12:27] [Server thread/WARN]: FIXER_San moved too quickly! 689.7910335594052,-80.0,581.2843415150038
-[04:12:33] [Server thread/INFO]: FIXER_San issued server command: /b
-[04:12:34] [Server thread/INFO]: FIXER_San issued server command: /back
-[04:12:34] [Server thread/WARN]: FIXER_San moved too quickly! -686.2610242376106,80.0,-581.1999999880791
-[04:12:34] [Server thread/WARN]: FIXER_San moved too quickly! -686.2610242376106,80.0,-581.1999999880791
-[04:13:23] [Server thread/INFO]: FIXER_San fell from a high place
-[04:14:39] [Server thread/INFO]: FIXER_San fell from a high place
-[04:20:40] [Async Chat Thread - #7/INFO]: <Sejul_04> 1353 14 514
-[04:37:03] [Server thread/INFO]: FIXER_San issued server command: /home
-[04:37:03] [Server thread/WARN]: FIXER_San moved too quickly! -806.7695570479764,51.0,-365.6842714577998
-[04:37:03] [Server thread/WARN]: FIXER_San moved too quickly! -806.7695570479764,51.0,-365.6842714577998
-[04:37:03] [Server thread/WARN]: FIXER_San moved too quickly! -806.7695570479764,51.0,-365.6842714577998
-[04:41:52] [Server thread/INFO]: FIXER_San issued server command: /tp Sejul_04
-[04:41:52] [Server thread/WARN]: FIXER_San moved too quickly! 721.6006147172928,-83.9375,531.9280552425398
-[04:41:52] [Server thread/WARN]: FIXER_San moved too quickly! 721.6006147172928,-83.9375,531.9280552425398
-[04:41:52] [Server thread/WARN]: FIXER_San moved too quickly! 721.6006147172928,-83.9375,531.9280552425398
-[04:41:52] [Server thread/WARN]: FIXER_San moved too quickly! 721.6006147172928,-83.9375,531.9280552425398
-[04:56:12] [Server thread/INFO]: FIXER_San issued server command: /save-all
-[04:56:14] [Server thread/INFO]: [FIXER_San: Saved the game]
-[04:56:15] [Server thread/INFO]: Sejul_04 lost connection: Disconnected
-[04:56:15] [Server thread/INFO]: Sejul_04 left the game
-[04:56:20] [Server thread/INFO]: Stopping the server
-[04:56:20] [Server thread/INFO]: Stopping server
-[04:56:20] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+24-0af4436
-[04:56:20] [Server thread/INFO]: Saving players
-[04:56:20] [Server thread/INFO]: FIXER_San lost connection: Server closed
-[04:56:20] [Server thread/INFO]: FIXER_San left the game
-[04:56:21] [Server thread/INFO]: Saving worlds
-[04:56:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04:56:21] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[04:56:21] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[04:56:21] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[04:56:21] [Server thread/INFO]: [ChunkHolderManager] Saved 427 block chunks, 886 entity chunks, 0 poi chunks in world 'world' in 0.61s
-[04:56:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:56:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[04:56:26] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[04:56:26] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[04:56:26] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[04:56:26] [Server thread/INFO]: [ChunkHolderManager] Saved 28 block chunks, 123 entity chunks, 0 poi chunks in world 'world_nether' in 0.05s
-[04:56:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:56:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[04:56:26] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[04:56:26] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[04:56:26] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[04:56:34] [Server thread/INFO]: [ChunkHolderManager] Saved 6455 block chunks, 141 entity chunks, 0 poi chunks in world 'world_the_end' in 7.57s
-[04:56:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:56:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[04:56:37] [Server thread/INFO]: Flushing Chunk IO
-[04:56:37] [Server thread/INFO]: Closing Thread Pool
-[04:56:37] [Server thread/INFO]: Closing Server
+[17:14:53] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 3 worker threads, and gen parallelism of 3 threads
+[17:14:53] [Server thread/INFO]: Default game type: SURVIVAL
+[17:14:53] [Server thread/INFO]: Generating keypair
+[17:14:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:14:54] [Server thread/INFO]: Using default channel type
+[17:14:54] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[17:14:54] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[17:14:54] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+24-0af4436
+[17:14:54] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:14:54] [Server thread/INFO]: Preparing level "world"
+[17:14:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:14:55] [Server thread/INFO]: Time elapsed: 1259 ms
+[17:14:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:14:56] [Server thread/INFO]: Time elapsed: 95 ms
+[17:14:56] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:14:56] [Server thread/INFO]: Time elapsed: 11 ms
+[17:14:56] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+24-0af4436
+[17:14:56] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[17:14:56] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[17:14:56] [Server thread/INFO]: [Essentials] Loaded 39095 items from items.json.
+[17:14:56] [Server thread/INFO]: [Essentials] Using locale ko_KR
+[17:14:56] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[17:14:56] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[17:14:56] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[17:14:57] [Server thread/INFO]: Running delayed init tasks
+[17:14:57] [Server thread/INFO]: Done (3.864s)! For help, type "help"
+[17:14:57] [Server thread/INFO]: Timings Reset
+[17:14:57] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] 버전 정보를 가져오는중...
+[17:15:07] [User Authenticator #0/INFO]: UUID of player FIXER_San is a945b7b7-265b-4cb5-8aea-cd10eb1f4cb9
+[17:15:07] [Server thread/INFO]: FIXER_San joined the game
+[17:15:07] [Server thread/INFO]: FIXER_San[/127.0.0.1:1520] logged in with entity id 893 at ([world]567.2550039709208, 73.0, -53.28492033858171)
+[17:25:47] [Async Chat Thread - #2/INFO]: <FIXER_San> HOME
+[17:25:49] [Server thread/INFO]: FIXER_San issued server command: /home
+[17:25:49] [Server thread/WARN]: FIXER_San moved too quickly! -272.5386972262065,91.0,-124.09054894199244
+[17:25:49] [Server thread/WARN]: FIXER_San moved too quickly! -272.5386972262065,91.0,-124.09054894199244
+[17:25:49] [Server thread/WARN]: FIXER_San moved too quickly! -272.5386972262065,91.0,-124.09054894199244
+[17:25:49] [Server thread/WARN]: FIXER_San moved too quickly! -272.5386972262065,91.0,-124.09054894199244
+[18:16:10] [Server thread/INFO]: FIXER_San fell from a high place
+[18:16:15] [Server thread/INFO]: FIXER_San issued server command: /back
+[18:16:15] [Server thread/WARN]: FIXER_San moved too quickly! 167.57499998807907,-264.5625,145.57499998807907
+[18:16:15] [Server thread/WARN]: FIXER_San moved too quickly! 167.57499998807907,-264.5625,145.57499998807907
+[18:16:15] [Server thread/WARN]: FIXER_San moved too quickly! 167.57499998807907,-264.5625,145.57499998807907
+[18:16:15] [Server thread/WARN]: FIXER_San moved too quickly! 167.57499998807907,-264.5625,145.57499998807907
+[18:16:18] [Server thread/INFO]: FIXER_San issued server command: /home
+[18:16:18] [Server thread/WARN]: FIXER_San moved too quickly! -169.1340231705061,265.0,-145.0549682967294
+[18:17:26] [Server thread/INFO]: FIXER_San fell from a high place
+[18:17:32] [Server thread/INFO]: FIXER_San issued server command: /flt
+[18:17:33] [Server thread/INFO]: FIXER_San issued server command: /fly
+[18:17:38] [Server thread/INFO]: FIXER_San issued server command: /home
+[18:19:56] [Server thread/INFO]: FIXER_San issued server command: /fly
+[18:21:27] [User Authenticator #1/INFO]: UUID of player Sejul_04 is b0a841e2-39f8-42db-b963-8b04fe2661bf
+[18:21:27] [Server thread/INFO]: Sejul_04 joined the game
+[18:21:27] [Server thread/INFO]: Sejul_04[/221.167.246.167:53655] logged in with entity id 14523 at ([world]1360.4724607928956, 14.0, 543.2915500556064)
+[18:21:37] [Async Chat Thread - #4/INFO]: <Sejul_04> 안녕하세용
+[18:21:48] [Async Chat Thread - #3/INFO]: <FIXER_San> 하이
+[18:22:00] [Async Chat Thread - #4/INFO]: <Sejul_04> 선배선배 저 셰이더
+[18:22:40] [Async Chat Thread - #3/INFO]: <FIXER_San> 잠시만여어
+[18:23:44] [Server thread/INFO]: Sejul_04 has made the advancement [The Cutest Predator]
+[18:27:42] [Server thread/INFO]: Sejul_04 lost connection: Disconnected
+[18:27:42] [Server thread/INFO]: Sejul_04 left the game
+[18:29:12] [User Authenticator #2/INFO]: UUID of player Sejul_04 is b0a841e2-39f8-42db-b963-8b04fe2661bf
+[18:29:12] [Server thread/INFO]: Sejul_04 joined the game
+[18:29:12] [Server thread/INFO]: Sejul_04[/221.167.246.167:54508] logged in with entity id 15700 at ([world]1314.7453047913823, 7.0, 483.863038601744)
+[18:29:26] [Async Chat Thread - #6/INFO]: <FIXER_San> 아니 이런
+[18:40:04] [Async Chat Thread - #7/INFO]: <FIXER_San> 나무 구합니다..
+[18:40:48] [Async Chat Thread - #8/INFO]: <FIXER_San> 님아 저 이제 나가봐야할 듯
+[18:41:07] [Server thread/INFO]: Stopping the server
+[18:41:07] [Server thread/INFO]: Stopping server
+[18:41:07] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+24-0af4436
+[18:41:07] [Server thread/INFO]: Saving players
+[18:41:07] [Server thread/INFO]: FIXER_San lost connection: Server closed
+[18:41:07] [Server thread/INFO]: FIXER_San left the game
+[18:41:07] [Server thread/INFO]: Sejul_04 lost connection: Server closed
+[18:41:07] [Server thread/INFO]: Sejul_04 left the game
+[18:41:07] [Server thread/INFO]: Saving worlds
+[18:41:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:41:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[18:41:07] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[18:41:07] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[18:41:08] [Server thread/INFO]: [ChunkHolderManager] Saved 223 block chunks, 492 entity chunks, 1 poi chunks in world 'world' in 0.38s
+[18:41:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:41:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[18:41:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[18:41:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[18:41:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[18:41:09] [Server thread/INFO]: [ChunkHolderManager] Saved 7 block chunks, 77 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[18:41:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:41:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[18:41:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[18:41:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[18:41:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[18:41:09] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 39 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[18:41:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:41:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:41:10] [Server thread/INFO]: Flushing Chunk IO
+[18:41:10] [Server thread/INFO]: Closing Thread Pool
+[18:41:10] [Server thread/INFO]: Closing Server
